@@ -5,8 +5,8 @@
     <description>The Beginning.</description>
     <link>https://nol.ski//</link>
     <atom:link href="https://nol.ski//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Mar 2018 18:43:08 -0500</pubDate>
-    <lastBuildDate>Tue, 06 Mar 2018 18:43:08 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Mar 2018 00:30:48 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Mar 2018 00:30:48 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -381,7 +381,7 @@ The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
 &lt;amp-youtube width=&quot;480&quot; height=&quot;270&quot; layout=&quot;responsive&quot; data-videoid=&quot;lBTCB7yLs8Y&quot;&gt;
 &lt;/amp-youtube&gt;
 </description>
-        <pubDate>Wed, 29 Nov 2017 23:00:00 -0500</pubDate>
+        <pubDate>Thu, 30 Nov 2017 04:00:00 +0000</pubDate>
         <link>https://nol.ski//style-guide</link>
         <guid isPermaLink="true">https://nol.ski//style-guide</guid>
         
@@ -399,7 +399,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 28 Nov 2017 23:00:00 -0500</pubDate>
+        <pubDate>Wed, 29 Nov 2017 04:00:00 +0000</pubDate>
         <link>https://nol.ski//sample</link>
         <guid isPermaLink="true">https://nol.ski//sample</guid>
         
@@ -439,7 +439,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 27 Nov 2017 23:00:00 -0500</pubDate>
+        <pubDate>Tue, 28 Nov 2017 04:00:00 +0000</pubDate>
         <link>https://nol.ski//code</link>
         <guid isPermaLink="true">https://nol.ski//code</guid>
         
@@ -503,7 +503,7 @@ Taken by
   &lt;/div&gt;
 &lt;/amp-audio&gt;
 </description>
-        <pubDate>Sun, 26 Nov 2017 23:00:00 -0500</pubDate>
+        <pubDate>Mon, 27 Nov 2017 04:00:00 +0000</pubDate>
         <link>https://nol.ski//media</link>
         <guid isPermaLink="true">https://nol.ski//media</guid>
         
