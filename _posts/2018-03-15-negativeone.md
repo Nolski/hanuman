@@ -10,13 +10,15 @@ author: nolski
 
 I told myself I wouldn't write anything until I got the offer. It's such a pain
 in the ass to spend a couple of nights putting together the beginnings of a
-blog and watch it go unused. It probably doesn't help that I for some reason
-assumed that things would move faster. Everyone knows that life moves at a crawl
-when you are waiting and warps into light speed the second you have a deadline.
+blog and watch it go unused. It probably doesn't help that I, for some reason
+assumed that things would move quickly. Putting me in Jordan before i knew it.
+Everyone knows that life moves at a crawl when you are waiting and warps into
+light speed the second you have a deadline.
 
 So here I am. Same job, same life, same springy 5 year old Ikea mattress. The
-motions and routine of life magically morphs from a comforting regimen into a
-maddening prison the second you feel you are on the cusp of a life change.
+motions and routine of life somehow magically morph from a comforting regimen
+into a maddening prison the second you feel you are on the cusp of a life
+change.
 
 If you came here for anything useful, you must be lost. This is the part of the
 internet that doesn't bring any use to the world. At least for this post in
