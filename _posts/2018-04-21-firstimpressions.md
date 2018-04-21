@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/temp-home.jpg'
-title: Style Guide
+title: First Impressions
 date: 2018-04-21 15:00:00
 tags: personal jordan irc 
 author: nolski
