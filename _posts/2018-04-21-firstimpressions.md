@@ -7,7 +7,7 @@ tags: personal jordan irc
 author: nolski
 ---
 
-## First Impressions
+### The seed from which our understanding might grow.
 
 _Cover photo thanks to the nice view outside of my IRC Temp housing :)_
 
